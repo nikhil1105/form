@@ -1,0 +1,5 @@
+.FormPage{
+    display: flex;
+    flex: auto;
+    width: 100vw;
+}
